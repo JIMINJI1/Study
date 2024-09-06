@@ -1,4 +1,4 @@
-package task.chap03_task;
+package week03_task;
 
 public class Calculator {
     // 추상화 했으니 이렇게 하면됨. 아래 주석처럼 다 안해도 됨

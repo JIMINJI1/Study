@@ -1,4 +1,4 @@
-package task.chap03_task;
+package week03_task;
 
 // 곱셈
 public class MultiplyOperation extends AbstractOperation{//AbstractOperation 클래스를 상속 받음

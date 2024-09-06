@@ -1,4 +1,4 @@
-package task.chap03_task;
+package week03_task;
 
 // 추상화 : 객체에서 공통된 부분들을 모아 상위 개념으로 새롭게 선언
 // abstract : 추상화임을 의미

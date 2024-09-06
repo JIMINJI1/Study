@@ -1,4 +1,4 @@
-package task.chap03_task;
+package week03_task;
 
 // 뺄셈
 public class SubstractOperation extends AbstractOperation{
